@@ -1,2 +1,2 @@
 # fashionista
-Верстка страницы блога 
+[Верстка](https://origin5665.github.io/fashionista/) страницы блога. 
